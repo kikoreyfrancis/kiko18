@@ -1,2 +1,2 @@
 # kiko18
-walalang
+walalangs
